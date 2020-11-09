@@ -47,9 +47,9 @@ La création d’une alternative est un travail de tous les jours. Tendre vers u
 
 ## Annexes
 
-- PE: Plan des espaces
+- [PE: Plan des espaces](pe.md)
 - Liste des membres du projet
-- Le manuel du visiteur Mallouestanais
+- [Le manuel du visiteur Mallouestanais](visiteur.md)
 
 ---
 
