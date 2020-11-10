@@ -91,6 +91,8 @@ Toute décision d'un membre ou de plusieurs membres peut être contester par un 
 
 Si le véto est contester un vote a lieu. Le véto n'est que valide si plus 60% des membres confirme une erreur d'interpretation ou une mauvaise interpretation de ce manuel. Si une erreur ou abération est présente dans le manuel il ne peut être emputé a l'individu.
 
+> Ces recours sont des notions très sensible et peuvent avoir un impact considérable sur le lieu de vie si elle sont utilisé abusivement. Malgré ses interets personnels la notion de véto est importante pour permettre a n'importe quel individue de garantir une continuité dans le contexte commun auquel il a adhéré.
+
 ---
 
 ## Rôles
