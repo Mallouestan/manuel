@@ -204,8 +204,8 @@ Les divers dons sont ajoutés au pot commun.
 Nous somme conscient que l'interaction avec l'exterieur oblige certaines forme d'échanges. Nous encourageons les membres du lieu a appliqué l'ordre suivant lors d'aquisition de bien ou de services dans la société:
 
 1. Essayer de privilégier le glanage et le don
-2. Si pas possible, essayer de proposer un échange contre des services
-3. Si pas possible, essayer de troquer un bien en échange
+2. Dans le cas ou le précedent ne suffit pas, essayer de proposer un échange contre des services
+3. Si les précedents ne fonctionne pas, essayer de troquer un bien en échange
 4. En dernier recours, payer avec de l'argent en essayant de négocier le prix au plus bas.
 
 ### Résidents
