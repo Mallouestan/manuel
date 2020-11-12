@@ -69,7 +69,7 @@ Nous somme conscient que chacun est déconstruit à des niveaux variables et que
 
 - Aucune violence non-légitime envers un autre individu.
 - Aucune consomation de produits d'origine animale ou originaire d'une exploitation animale à l'exception des produits nécessaires pour les animaux non autonomes déjà présents sur le lieu.
-- Le respect des espaces communs (organisation et propreté)
+- Le respect des espaces et de leurs signalisation 
 - Le respect des animaux comme explicité à la section `Animaux non autonomes` de ce manuel.
 
 ---
