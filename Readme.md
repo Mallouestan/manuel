@@ -91,7 +91,7 @@ Lors d'un conflit:
 Plusieurs ultimatums exceptionnelles sont de facto définit pour tous les membres du lieu:
 
  - Toute atteintes physique intentionelle hors légitime défense sur un individus du lieu peut entrainer une exclusion du lieu si au moin un autre membre du lieu le souhaite
- - Toute atteintes physique grave (décès, blessure sur le long therme ) par un animal sous la responsabilité d'un membre sur un autre individu du lieu entraine l'exclusion de l'animal ou si le ou les responsable de l'animal le souhaite un ultimatum les concernant directement
+ - Toute atteintes physique grave (décès, blessure sur le long therme ) par un animal sur un autre individu du lieu entraine soit l'exclusion de l'animal ou si le ou les responsable de l'animal le souhaite un ultimatum les concernant directement
 
 ---
 
