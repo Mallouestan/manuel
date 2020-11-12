@@ -1,5 +1,7 @@
 # Plan des espaces
 
+> Le plan des espaces est une annexe du [Manuel du chercheur mallouestanais](Readme.md)
+
 ## Les espaces
 
 ### Légende
