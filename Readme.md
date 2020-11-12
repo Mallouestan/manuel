@@ -43,8 +43,6 @@ Certaines décisions concernent plusieurs membres du lieu de vie et peut impacte
 
 Certaines décision malgré le fait qu'elle impacte le commun serait dangereuse et potentiellement liberticide si elle dépendait systématiquement d'une unanimité. Ces décisions permette de définir qui adhère ou non a une intention et en aucun cas ne permette d'empecher ou d'imposer une issue. 
 
-Ces décisions relève de la mème gouvernance que les décision concernant les acte irréversible.  
-
 ### Toute décision
 
 Toute décision d'un membre ou de plusieurs membres peut être contester par un véto. Le véto peux par nature être opressive et doit être justifier par l'incompatibilité de la décision avec ce manuel seul representant de nos engagement mutuels. 
@@ -113,21 +111,17 @@ Dans le contexte du sanctuaire, nous acceptons d'accueillir des animaux non auto
 
 Accueillir un animal impose que l'on puisse garantir des conditions de vie digne. Nous devons financièrement, logistiquement et par nos ressources, être sûr de pouvoir répondre à leurs besoins avant d'accepter de les accueillir. 
 
-Nous acceptons que la charge mentale lié a l'acceuil d'être non autonomes ne peut être imposé sur tous les membre du projet et relève uniquement des membres ayant accepter les animaux sur le lieu. Ces membre ont l'opportunité de s'exprimer au moment de la **decision de responsabilité** concernant l'acceuil ou non de ces individus.
+Nous acceptons que la charge mentale lié a l'acceuil d'êtres non autonomes ne peut être imposé sur tous les membre du projet et relève uniquement des membres ayant accepter les animaux sur le lieu. Ces membre ont l'opportunité de s'exprimer au moment de la **decision de responsabilité** concernant l'acceuil ou non de ces individus.
 
-L'accueil d'animaux impact les écosystem voisinants de fait, un nombre limité d'animaux peux être acceuillis sur le lieu.
+> L'accueil d'animaux impact les écosystem voisinants de fait, un nombre limité d'animaux peux être acceuillis sur le lieu.
 
 ### Alimentation
 
 L'accueil d'animaux est limité à l'accueil d'animaux n'agravant pas la dépendance au systeme spéciste. Tout animal qui ne peut se passer d'une alimentation non autonome carné ou d'une alimentation dépendante d'une exploitation animale ne seront pas acceptés sur le lieu.
 
-Certains animaux ne peuvent pas changer instantanément d'une alimentation non végétale à une alimentation végétale. Une zone de transition peut être définit pour ces animaux le temps de transiter vers une alimentation végétale sans que leur santé soit impactée.
-
 ### Reproduction
 
 Nous avons la responsabilité de limité la reproduction des animaux domestiques. Leur reproduction perdure les tares génétique et perdure leur dépendance à notre égard. Nous nous engageons à tout faire pour limiter la reproduction des animaux sous notre responsabilité. 
-
-La non reproduction des animaux n'étant pas sous la responsabilité commune relève de la responsabilité individuelle. 
 
 ---
 
@@ -150,15 +144,13 @@ Tout résident en acceptons de venir sur le lieux accepte que les dépenses lié
 
 Nous somme conscient que l'espace sur lequel évolue le projet est limité par le système ainsi que géographiquement. Ces espaces, une fois amenagé relève du contexte commun auquel chacun adhère, en adhérant au projet global. Le PE (Plan des Espaces) a pour but de définir de façon transparente la vision commune de ces espaces.
 
-Le PE définit cinq types de zones:
+Le PE définit cinq types de zones et leurs modalités:
 
 - **les espaces disponibles**: les espaces qui peuvent être occupés par des résidents
 - **les espaces libre**: les espaces qui peuvent acceuillir des projets
 - **les espaces reservés**: les espaces qui sont réservés aux animaux, à la culture ou à toute autre projet
 - **les espaces privés**: les espaces qui sont réservés aux résidents
 - **les espaces sauvages**: les espaces qui sont laissés sauvage
-
-Le PE définit aussi d'autres critères concernant ces différents espaces.
 
 ### Limites et quotas
 
@@ -174,9 +166,9 @@ Les espaces privés sont réservés à un ou plusieurs résidents. Le/les résid
 
 ### Les espaces reservés
 
-Un espace reservé est obtenue que par accord unanime des membres du lieu suite a une demande. Un espace reservé ne peut que être accordé sur un espace libre. Cette "réservation" ne releve exeptionnellement pas de la même gouvernance que le manuel (soit le vote unanime a raison de 14 jours) mais de la gouvernance d'une décision de responsabilités.
+Un espace reservé est obtenue que par accord unanime des membres du lieu suite a une demande. Un espace reservé est obligatoirement accordé sur un espace libre. Cette "réservation" ne releve exeptionnellement pas de la même gouvernance que le manuel mais de la gouvernance d'une décision de responsabilités.
 
->Les décisions au seins de ces espaces relève d'un contexte commun et non du contexte commun. Ainsi la gouvernance décrit ci-dessus s'applique mais potentiellement a commités réduit.
+> Les décisions au seins de ces espaces relève d'un contexte commun et non du contexte commun. Ainsi la gouvernance décrit ci-dessus s'applique mais potentiellement a commités réduit.
 
 ---
 
